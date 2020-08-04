@@ -1,7 +1,5 @@
 ## d3vilGG
 
-Syntax highlighted code block
-
 >**name = ('d3vilGG ')**
 >**play = ('dota2 ')**
 >**learn = ('python')**
